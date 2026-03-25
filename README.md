@@ -23,7 +23,7 @@ Example filters:
 - Model → 3 Series, 5 Series
 - Month → Jan, Nov
 
-![Dashboard Filter 1]((https://github.com/Amul-Sureja/Dashboard-for-BMW-Sales-2018-2025/blob/7a6ff4aa96b571c2038a5154586f304aacb49d7d/Images/With%20Filter%201.png))
+((https://github.com/Amul-Sureja/Dashboard-for-BMW-Sales-2018-2025/blob/7a6ff4aa96b571c2038a5154586f304aacb49d7d/Images/With%20Filter%201.png))
 ![Dashboard Filter 2](Images\With Filter 2.png)
 ![Dashboard Filter 3](Images\With Filter 3.png)
 
