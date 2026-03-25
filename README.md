@@ -59,6 +59,7 @@ This dashboard provides an **interactive analysis of BMW global sales data (2018
 ```bash
 pip install dash plotly pandas
 
+
 ### 2️⃣ Run
 ```bash
 python app.py
