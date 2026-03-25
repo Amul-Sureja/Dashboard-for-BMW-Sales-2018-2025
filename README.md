@@ -10,9 +10,9 @@
 
 The dashboard initially loads with **all 3,072 records**.
 
-![Dashboard Default 1]()
-![Dashboard Default 2]()
-![Dashboard Default 3]()
+![image alt](https://github.com/Amul-Sureja/Dashboard-for-BMW-Sales-2018-2025/blob/23b8c550abba6bdb51e4672059d2adfd5a90702e/Images/With%20Filter%201.png)
+![image alt](https://github.com/Amul-Sureja/Dashboard-for-BMW-Sales-2018-2025/blob/23b8c550abba6bdb51e4672059d2adfd5a90702e/Images/With%20Filter%202.png)
+![image alt](https://github.com/Amul-Sureja/Dashboard-for-BMW-Sales-2018-2025/blob/23b8c550abba6bdb51e4672059d2adfd5a90702e/Images/With%20Filter%203.png)
 
 ---
 
@@ -23,9 +23,9 @@ Example filters:
 - Model → 3 Series, 5 Series
 - Month → Jan, Nov
 
-![Dashboard Filter 1]()
-![Dashboard Filter 2]()
-![Dashboard Filter 3]()
+![image alt](https://github.com/Amul-Sureja/Dashboard-for-BMW-Sales-2018-2025/blob/23b8c550abba6bdb51e4672059d2adfd5a90702e/Images/Without%20Filter%201.png)
+![image alt](https://github.com/Amul-Sureja/Dashboard-for-BMW-Sales-2018-2025/blob/23b8c550abba6bdb51e4672059d2adfd5a90702e/Images/Without%20Filter%202.png)
+![image alt](https://github.com/Amul-Sureja/Dashboard-for-BMW-Sales-2018-2025/blob/23b8c550abba6bdb51e4672059d2adfd5a90702e/Images/Without%20Filter%203.png)
 
 ---
 
