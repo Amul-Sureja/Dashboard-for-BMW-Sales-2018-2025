@@ -10,9 +10,9 @@
 
 The dashboard initially loads with **all 3,072 records**.
 
-![Dashboard Default 1](Images\Without Filter 1.png)
-![Dashboard Default 2](Images\Without Filter 2.png)
-![Dashboard Default 3](Images\Without Filter 3.png)
+![Dashboard Default 1]()
+![Dashboard Default 2]()
+![Dashboard Default 3]()
 
 ---
 
@@ -23,9 +23,9 @@ Example filters:
 - Model → 3 Series, 5 Series
 - Month → Jan, Nov
 
-((https://github.com/Amul-Sureja/Dashboard-for-BMW-Sales-2018-2025/blob/7a6ff4aa96b571c2038a5154586f304aacb49d7d/Images/With%20Filter%201.png))
-![Dashboard Filter 2](Images\With Filter 2.png)
-![Dashboard Filter 3](Images\With Filter 3.png)
+![Dashboard Filter 1]()
+![Dashboard Filter 2]()
+![Dashboard Filter 3]()
 
 ---
 
